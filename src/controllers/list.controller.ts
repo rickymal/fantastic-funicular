@@ -1,0 +1,3 @@
+function list(request, respons) {
+    
+}
